@@ -1,9 +1,8 @@
 # :wave: Welcome
 
-Hello, my name is Josh and I am a 17 year old Computer Science student from the UK. I really enjoy programming and playing games like X-Plane 11, FiveM, Minecraft etc.
+Hello, my name is Josh and I am a 17 year old Computer Science student from the UK. I really enjoy programming and playing games like Rust, X-Plane 11 and Minecraft.
 
-I am currently working on a small Forge Mod that adds Emerald Tools to Minecraft 1.14.4 with a friend of mine, Zappg. We also have a Golden Fishing Rod mod planned for the future.
-This mod is in an early phase as we are still learning how to program mods with Forge, although I do have some experience with Java from past projects.
+I am currently working on designing a range of Rust servers for the RAT Media Group, an upcoming organization.
 
 # :computer: Programming
 
