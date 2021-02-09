@@ -12,7 +12,7 @@ In terms of languages, I actively program in:
 - Node.js
 - Java
 
-I don't really plan to learn any new programming languages soon as I am confident with the four I have just mentioned.
+I do not intend to learn any new programming languages, as I enjoy the aforementioned languages at the moment.
 
 # :iphone: Contacting Me
 
