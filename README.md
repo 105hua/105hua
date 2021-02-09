@@ -1,6 +1,6 @@
 # :wave: Welcome
 
-Hello, my name is Josh and I am a 17 year old Computer Science student from the UK. I really enjoy programming and playing games like Rust, X-Plane 11 and Minecraft.
+Hello, my name is Josh and I am an 18 year old Computer Science student from the UK. I really enjoy programming and playing games like Rust, X-Plane 11 and Minecraft.
 
 I am currently working on designing a range of Rust servers for the RAT Media Group, an upcoming organization.
 
