@@ -1,22 +1,24 @@
-# :wave: Welcome
+# :wave: Welcome to my profile!
 
-Hello, my name is Josh and I am an 18 year old Computer Science student from the UK. I really enjoy programming and playing games like Rust, X-Plane 11 and Minecraft.
+Hello! My name is Josh and I'm and 18 year old Computer Science student based in the United Kingdom. I do a lot of programming as well as play a handful of games like Roblox, Hearts of Iron 4, Forza Horizon 5 and Geometry Dash.
 
-I am currently working on designing a range of Rust servers for the RAT Media Group, an upcoming organization.
+I am currently working on a couple of Roblox games, some my own, some on behalf of RAT Media Group, an organization that I work for. I am also considering a couple of other projects, such as a LUA Discord Bot.
 
 # :computer: Programming
 
-In terms of languages, I actively program in:
+As I said in the welcome section, I do a lot of programming. I have experience with a wide range of languages, however, currently, I would say I specialise in:
 - C#
-- Visual Basic
-- Node.js
-- Java
+- LUA
+- Node.JS
 
-I do not intend to learn any new programming languages, as I enjoy the aforementioned languages at the moment.
+From time to time, I dabble in other languages, such as C++ and React, however, they aren't my go to languages.
 
-# :iphone: Contacting Me
+# 📞 Contacting Me
 
-You can reach out to me via these links:
-- [My Twitter](https://twitter.com/105hua)
-- [My E-Mail](mailto:joshua@ratmediagroup.co.uk)
-- My Discord: J0sh#8430
+Here are a list of places you can contact me:
+- [Twitter](https://twitter.com/105hua_dev)
+- [Personal Email](mailto:joshuajtudball2003@gmail.com)
+- [Company Email](mailto:joshua@ratmediagroup.co.uk)
+- Discord: J0sh#1674
+
+The best place to contact me would probably be Discord, as I check that most often, however, for business inquiries, I kindly ask that you use my Company Email, thank you!
