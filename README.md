@@ -21,7 +21,6 @@ Below is a list of technologies that I have experience in, along with a skill le
 - Java - 🟩🟩⬜⬜⬜
 - Python - 🟩🟩⬜⬜⬜
 - PHP - 🟩🟩⬜⬜⬜
-- R - 🟩⬜⬜⬜⬜
 
 
 ## 🔗 Links
