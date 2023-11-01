@@ -7,13 +7,10 @@
 - 🔭 I’m currently working on Minecraft Plugins.  
   
 
-- 🌱 I’m currently learning Kotlin.  
+- ❓ Ask me about anything related to React, Python or JavaScript.  
   
 
-- ❓ Ask me about anything related to React, C# or JavaScript.  
-  
-
-- ⚡ Fun Fact: I play a lot of Minecraft.  
+- ⚡ Fun Fact: My favourite animal is the Capybara.
   
 
 <br/>  
