@@ -4,7 +4,7 @@
 ### <div align="center">I'm Josh, a Full-Stack developer since 2014</div>  
   
 
-- 🔭 I’m currently working on Minecraft Plugins.  
+- 🔭 I’m currently working on completing my University Degree. In my spare time, I like working on Minecraft content and Open-Source projects.
   
 
 - ❓ Ask me about anything related to React, Python or JavaScript.  
