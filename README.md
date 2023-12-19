@@ -61,6 +61,8 @@
 <img src="https://img.shields.io/badge/ProtonMail-black?style=for-the-badge&logo=protonmail" alt="github" />
 </a>
 </div>
+
+<p align="center"><strong>NOTE:</strong> If you prefer to contact me through other means, shoot me an E-Mail by clicking the link above. However, I can't guarantee that I will be able to accommodate your request.</p>
   
 
 <br/>  
