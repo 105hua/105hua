@@ -62,7 +62,7 @@
 </a>
 </div>
 
-<p align="center"><strong>NOTE:</strong> If you prefer to contact me through other means, shoot me an E-Mail by clicking the link above. However, I can't guarantee that I will be able to accommodate your request.</p>
+<p align="center"><strong>NOTE:</strong> If you prefer to contact me through other means, shoot me an E-Mail by clicking the link above. However, I can't guarantee that I will be able to accommodate your request (This includes Discord, which I would like to keep personal).</p>
   
 
 <br/>  
