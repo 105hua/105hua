@@ -52,9 +52,15 @@
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/105hua" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a> 
-</div>  
+</div>
+
+<div align="center">
+<a href="mailto:contact_105hua@proton.me">
+<img src="https://img.shields.io/badge/ProtonMail-black?style=for-the-badge&logo=protonmail" alt="github" />
+</a>
+</div>
   
 
 <br/>  
