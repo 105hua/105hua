@@ -10,7 +10,7 @@
 - ❓ Ask me about anything related to React, Python or JavaScript.  
   
 
-- ⚡ Fun Fact: My favourite animal is the Capybara.
+- ⚡ Fun Fact: My favourite animal is the Capybara, can you tell?
   
 
 <br/>  
